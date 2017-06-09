@@ -1,0 +1,54 @@
+set nocompatible
+
+"开启backspace模式
+set backspace=indent,eol,start
+
+
+"Vundle配置
+filetype off
+set rtp+=C:/cmder/vendor/vim/vimfiles/bundle/Vundle.vim
+call vundle#begin('C:/cmder/vendor/vim/vimfiles/bundle/')
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'iamcco/markdown-preview.vim'
+Plugin 'klen/python-mode'
+Plugin 'scrooloose/nerdtree'
+Plugin 'fholgado/minibufexpl.vim'
+Plugin 'kien/ctrlp.vim'
+
+call vundle#end()
+filetype plugin indent on
+
+"http://blog.csdn.net/sun_shine_/article/details/8449520
+set number
+syntax on
+
+"编码设置
+let &termencoding=&encoding
+set fileencodings=utf-8,gbk
+
+"MarkdownPreview设置
+let g:mkdp_path_to_chrome="chrome"
+let g:mkdp_auto_close=0
+nmap <F7> <Plugin>MarkdownPreview
+nmap <F8> <Plugin>StopMarkdownPreview
+
+"代码折叠
+set foldmethod=indent
+set foldlevel=99
+nnoremap <space> za
+
+"自动换行
+set wrap
+
+"NERDTree
+let NERDTreeWinPos='right' 
+let NERDTreeWinSize=30 
+map <F2> :NERDTreeToggle<CR>
+"autocmd VimEnter * NERDTree 
+"autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") &&b:NERDTreeType == "primary") | q | endif
+
+"Buffer
+map <s-tab> :bp<cr> 
+map <tab> :bn<cr> 
+map ,bd :bd<cr>

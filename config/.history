@@ -1,0 +1,981 @@
+cd ..
+ls
+git
+git
+telnet
+ls
+git
+gw
+com
+ls
+cd ..
+com
+exit
+exit
+com
+gt
+ls
+gw
+df
+lsup
+lsup
+ls
+ls
+gw
+gt
+ls
+lua
+lua
+cd /
+cd meekdai\
+mkdir open
+mkdir desk
+ls
+cd open\
+7z
+kj
+kjj
+mkdir open
+mkdir desk
+cd open\
+kj
+kjj
+7z
+cd Desktop\
+7z a test
+df
+rm all
+rm desktop.ini
+rm *.ink
+rm *.ink*'
+rm 优酷.lnk*
+ls
+rm *.ink*'
+rm 优酷.lnk*
+gw
+cd des
+cd desk\
+ls
+gw
+cd des
+cd desk\
+g:
+cd qiniu\
+cd rhyme\
+vi index.html 
+index.html
+ls
+vi lizibeijing.js
+gw
+cd des
+cd desk\
+ls
+gw
+cd des
+cd desk\
+vi lizibeijing.js
+g:
+cd qiniu\
+cd re
+rm lizibeijing.js 
+index\
+index.html
+vi index.html 
+st index.html 
+LS
+cd ..
+ls
+cd rhyme\
+python qiniusync.py 
+ls
+cd 
+sf
+df
+df -h
+ls
+ls
+cd ..
+exit
+ls
+vi lizibeijing.js
+gw
+cd des
+cd desk\
+ls
+cd des
+vi lizibeijing.js
+g:
+cd qiniu\
+cd re
+rm lizibeijing.js 
+index\
+index.html
+vi index.html 
+st index.html 
+LS
+cd ..
+ls
+cd rhyme\
+python qiniusync.py 
+ls
+cd 
+sf
+df
+df -h
+ls
+cd ..
+exit
+gw
+cd desk\
+cd desktop\
+cd nodemcu\
+cd mynode\
+luatool --port COM3 --src main.lua
+kjj
+luatool --port COM3 --src main.lua -raw
+ls
+luatool --port COM3 --src main.lua -r
+com
+luatool --port COM3 --src telnet.lua
+luatool --ip 192.168.0.100 --src main.lua -r
+luatool --ip 192.168.0.100 -f main.lua
+telnet 192.168.0.100
+telnet 192.168.0.100 2323
+luatool --ip 192.168.0.100 2323 -f main.lua
+luatool --ip 192.168.0.100:2323 -f main.lua
+cd ..
+exit
+con
+luatool --port COM3 --src telnet.lua
+com
+con
+luatool --port COM3 --src telnet.lua
+com
+gw
+cd ..
+cd cmder\
+cd config\
+ls
+exit
+cd ..
+cd cmder\
+cd config\
+ls
+exit
+com
+luatool --ip 192.168.0.100 2323 -f main.lua
+luatool --ip 192.168.0.100:2323 -f main.lua
+cd ..
+exit
+con
+luatool --port COM3 --src telnet.lua
+com
+con
+luatool --port COM3 --src telnet.lua
+com
+cd ..
+cd cmder\
+cd config\
+exit
+gw
+cd desk\
+cd desktop\
+cd nodemcu\
+cd mynode\
+ls
+luatool -ip 192.168.0.100 -f main.lua -r
+luatool --ip 192.168.0.100 -f main.lua -r
+luatool --ip 192.168.0.100 -f main.lua
+luatool --ip 192.168.0.101 -f main.lua
+luatool --ip 192.168.0.101:2323 -f main.lua
+luatool --ip 192.168.0.105:2323 -f main.lua
+git st
+g:
+cd qiniu\
+cd rhyme\
+cd typecho\
+cd ..
+ls
+python qiniusync.py 
+cd nodemcu\
+cd mynode\
+luatool -ip 192.168.0.100 -f main.lua -r
+luatool --ip 192.168.0.100 -f main.lua -r
+luatool --ip 192.168.0.100 -f main.lua
+luatool --ip 192.168.0.101 -f main.lua
+luatool --ip 192.168.0.101:2323 -f main.lua
+luatool --ip 192.168.0.105:2323 -f main.lua
+g:
+cd meek\
+git add.
+git ci -m"1.6.0"
+git st
+cd usr\
+cd t
+cd themes\
+cd Mirages\
+ls
+git add .
+git ci -m"side"
+git push -u origin master
+gt
+cd ..
+ls
+cd meek\
+git st
+git add .
+git ci -m"skin"
+git push -u origin master
+git push -u origin master
+gt
+cd ..
+ls
+cd meek\
+git st
+git add .
+git ci -m"skin"
+git push -u origin master
+com
+com
+git push -u origin master
+com
+com --h
+com
+exit
+*cmd /k "%ConEmuDir%\..\init.bat"  -new_console:d:%USERPROFILE%
+Cmder.exe /REGISTER ALL
+python qiniusync.py 
+Cmder.exe /REGISTER ALL
+python qiniusync.py 
+gw
+gt
+cd myPython\
+ls
+ PYTHON qiniusync.py
+ls
+PYTHON qiniusync.py 
+ PYTHON qiniusync.py
+ PYTHON qiniusync.py
+report
+report
+python qiniusync.py 
+python qiniusync.py 
+exit
+python q
+python qiniusync.py 
+ excit
+exit
+exit
+git add .
+git commit "mail"
+git commit -m "mail"
+git push -u origin master
+git commit -m "mail"
+git add .
+git commint -m '1.7'
+git ci -m '1.7'
+git push -u origin master
+git ad .
+git add .
+git ci -m 'dev2'
+git push -u origin master
+Cmder.exe /REGISTER ALL
+cd ..
+ls
+cd /e
+df
+exit
+git clone https://git-ct.smartgslb.com/meek
+git clone https://git-ct.smartgslb.com/meek
+git add .
+git config --global user.email meekdai@163.com
+git config --global user.name Meekdai
+git commit -m'mail'
+git push -u origin master
+git push -u origin master
+com
+kjj
+kjj
+git push -u origin master
+kjj
+pip install serial
+python -m pip install --upgrade pip
+kjj
+pip install pyserial
+com -h
+com
+ls
+exit
+ping blog.meekdai.com
+eixt
+exit
+exit
+ping blog.meekdai.com
+eixt
+com
+exit
+exit
+COM
+com
+exit
+exit
+COM
+GIT HELP
+ping http://www.professorjohnny.me/
+ping professorjohnny.me
+ping blog.meekdai.com
+echo %date:~10,4%-%date:~7,2%-%date:~4,2%
+%windir%\system32\bash.exe ~ -cur_console:pm:/mnt
+%windir%\system32\bash.exe -cur_console:p1
+%windir%\system32\bash.exe -cur_console:p1
+npm install
+npm install phantomjs-prebuilt 
+npm install phantomjs-prebuilt
+exit
+git clone git@github.com:atom-minimap/minimap.git
+exit
+npm install phantomjs-prebuilt 
+npm install phantomjs-prebuilt
+exit
+git clone git@github.com:atom-minimap/minimap.git
+exit
+cd atom-script\
+cd ..
+ls
+cd atom-clock\
+npm install
+pip install qiniu
+python qiniusync.py
+exit
+python qiniusync.py
+python pysmc.py 
+exit
+exit
+python qiniusync.py
+exit
+pip install ctypes
+python 
+python pysmc.py 
+kjj
+python pysmc.py 
+python
+npm install
+exit
+apm install hydrogen
+npm install hydrogen
+pip install jupyter
+apm install hydrogen
+npm install hydrogen
+apm install hydrogen
+apm install hydrogen
+apm.cmd 
+apm install hydrogen
+apm install
+npm install
+exit
+apm install hydrogen
+apm install hydrogen
+apm.cmd 
+apm install
+exit
+export npm_config_target=1.2.3
+ npm_config_target=1.2.3
+ npm_config_target=1.2.3
+npm_config_target=1.2.3
+npm install --save-dev electron-rebuild
+npm install jmp
+apm uninstall hydrogen
+cd ..
+cd hydrogen\
+npm install
+npm run build:libzmq
+ node-gyp rebuild
+apm config set python $env:USERPROFILE\.windows-build-tools\python27\python.exe
+apm config set msvs_version 2015
+apm config set python python2.7
+apm install hydrogen
+ls
+pip install jupyter
+apm install hydrogen
+exit
+jupyter notebook
+ipython --gui=qt
+apm -v
+npm -v
+exit
+npm install
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm install libzmq
+cnpm install
+apm uninstall
+apm uninstall hydrogen
+cnpm install hydrogen
+exit
+npm install
+npm install
+ping google.com
+npm install
+npm install
+ping google
+set http_proxy=jjs5.ss.chuhaiba.top:25690
+set http_user=Meekdai
+set http_pass= NXzRqv
+ping google.com
+npm install
+exit
+ping google.com
+npm install
+npm install
+ping google.com
+npm install
+npm install
+ping google
+set http_proxy=jjs5.ss.chuhaiba.top:25690
+set http_user=Meekdai
+set http_pass= NXzRqv
+ping google.com
+exit
+cd .atom\
+cd packages\
+apm rebuild hydrogen
+cd ..
+apm uninstall hydrogen
+apm install hydrogen
+cd hydrogen\
+ls
+npm install
+ipconfig -all
+ipconfig -all
+ping google
+ping google.com
+exit
+vim 
+ls
+exit
+vim tim.c 
+vim ~/.vimrc
+cd /
+ls
+cd Users\
+cd Meekdai\
+cd Desktop\
+cd vim
+vim tim.
+vim tim.c
+exit
+vim vimrc 
+exit
+npm install
+exit
+vim vimrc
+exit
+vim vimrc
+mkdir bundle
+cd bundle\
+git clone https://github.com/plasticboy/vim-markdown.git
+cd /
+cd Users\
+cd Meekdai\
+cd Desktop\
+cd vim
+ls
+vim TEC制冷片驱动选型.md 
+fc-list :lang=zh
+exit
+VIM TIM.C
+exit
+kjj
+exit
+vim
+exit
+vim tim.c 
+exit
+ls
+vim vimrc_example.vim 
+exit
+vim
+exit
+vim tim.c 
+exit
+vim vimrc_example.vim 
+exit
+cd /
+cd cmder\
+cd vendor\
+cd git-for-windows\
+cd usr\
+cd s
+cd share\
+cd vim
+cd vim80
+ls
+curl -LSso /autoload/pathogen.vim https://tpo.pe/pathogen.vim
+curl: (23) Failed writing body (0 != 1925)
+curl --help
+vim tim.c
+exit
+ls
+curl -LSso /autoload/pathogen.vim https://tpo.pe/pathogen.vim
+curl: (23) Failed writing body (0 != 1925)
+curl --help
+vim tim.c
+exit
+vim -h
+vim -v
+:version
+cd $HOME
+echo $HOME
+:echo expand('~')
+ :echo $VIMRUNTIME
+echo #home
+vim
+mkdir .vim
+vim
+exit
+vim
+exit
+curl --version 
+exit
+mkdir .vim
+vim
+exit
+exit
+curl --version 
+exit
+git clone https://github.com/gmarik/vundle
+ls $VIM/vimfiles/bundle/vundle
+ls #VIM/vimfiles
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ls ~/
+vim
+git clone https://github.com/VundleVim/Vundle.vim.git Vundle.vim
+vim
+exit
+vim
+ls %vim%
+git clone https://github.com/VundleVim/Vundle.vim.git C:\cmder\vendor\git-for-windows\usr\share\vim\vimfiles\bundle\Vundle.vim
+vim
+git clone https://github.com/VundleVim/Vundle.vim.git C:\cmder\vendor\git-for-windows\usr\share\vim\vimfiles\bundle\Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git
+ls %VIM%/vimfiles/bundle/Vundle.vim/
+vim
+ls %VIM%/vimfiles/bundle/Vundle.vim/
+vim
+git clone https://github.com/VundleVim/Vundle.vim.git Vundle.vim
+ls %VIM%/vimfiles/bundle/Vundle.vim/
+vim
+ls %VIM%/vimfiles/bundle/Vundle.vim/
+git clone https://github.com/VundleVim/Vundle.vim.git Vundle.vim
+vim
+npm -g install instant-markdown-d
+VIM
+vim
+vim
+vim TEC制冷片驱动选型.md 
+exit
+vim TEC制冷片驱动选型.md 
+exit
+vim 123.md 
+exit
+exit
+exit
+vim 123.md 
+vim TEC制冷片驱动选型.md 
+vim
+exit
+python
+exit
+exit
+python
+exit
+python
+exit
+exit
+python -V
+python
+vim --version
+vim
+make
+vim --version
+make
+git -v
+git --version
+yum update
+python
+vim
+python
+vim
+python
+echo $PYTHONPATH
+:python import os;print os.getenv('PYTHONPATH')
+vim
+vim
+mingw
+exit
+mingw
+MinGW
+exit
+gcc -v
+exit
+gcc -v
+gcc -v
+make
+make clean
+make uninstall
+gcc -v
+make -v
+exit
+./configure --with-features=huge --enable-pythoninterp --with-python-config-dir=/usr/local/python2710/lib/python2.7/config --enable-rubyinterp --enable-perlinterp --enable-luainterp --with-lua-prefix=/usr --enable-cscope  --enable-multibyte  --enable-gui=auto --enable-xim  --with-x --enable-fontset --enable-sniff --disable-selinux 
+make 
+make
+make 
+make
+make clean
+make distclean
+sudo ./configure –enable-multibyte \
+--enable-fontset \
+--enable-xim \
+--enable-gui=auto \
+--enable-luainterp=dynamic \
+--enable-pythoninterp=yes \
+--enable-rubyinterp=dynamic \
+--enable-perlinterp \
+--enable-cscope \
+--enable-sniff \
+--with-x \
+--with-compiledby=erocpil \
+--with-features=huge \
+--with-python-config-dir=
+make.exe -f Make_ming.mak PYTHON=C:\Python27 PYTHON_VER=27 DYNAMIC_PYTHON=yes PYTHON3=C:\Python32 PYTHON3_VER=32 DYNAMIC_PYTHON3=yes USERNAME=zokr7et USERDOMAIN=z7ed.tk
+ls
+cd src
+make -f Make_ming.mak PYTHON=C:\Python27 PYTHON_VER=27 DYNAMIC_PYTHON=yes PYTHON3=C:\Python32 PYTHON3_VER=32 DYNAMIC_PYTHON3=yes USERNAME=zokr7et USERDOMAIN=z7ed.tk
+VIM
+vim
+vim
+vim
+make.exe -f Make_ming.mak PYTHON=C:\Python27 PYTHON_VER=27 DYNAMIC_PYTHON=yes PYTHON3=C:\Python32 PYTHON3_VER=32 DYNAMIC_PYTHON3=yes USERNAME=zokr7et USERDOMAIN=z7ed.tk
+ls
+cd src
+make -f Make_ming.mak PYTHON=C:\Python27 PYTHON_VER=27 DYNAMIC_PYTHON=yes PYTHON3=C:\Python32 PYTHON3_VER=32 DYNAMIC_PYTHON3=yes USERNAME=zokr7et USERDOMAIN=z7ed.tk
+VIM
+vim
+vim
+vim
+vim
+vim
+python
+exit
+vim
+git clone git@github.com:amix/vimrc.git
+sh install_awesome_vimrc.sh 
+git clone git@github.com:amix/vimrc.git
+sh install_awesome_vimrc.sh 
+mkdir .vim_runtime
+cd .vim_runtime\
+git clone https://github.com/amix/vimrc.git
+ls
+cd vimrc\
+sh install_awesome_vimrc.sh
+vim
+vim 
+vim 
+ls
+vim
+sh install_awesome_vimrc.sh
+vim
+vim 
+vim 
+ls
+vim --version |grep python
+vim
+vim --version |grep python
+:q
+ls
+vim
+exit
+ls
+vim
+vim tim.c
+vim TEC制冷片驱动选型.md 
+exit
+exit
+vim
+vim tim.c
+vim TEC制冷片驱动选型.md 
+exit
+cd /
+cd cmder
+cd vendor\
+cd git-for-windows\
+cd etc\
+ls
+vim vimrc
+exit
+vim TEC制冷片驱动选型.md 
+cd Desktop\
+cd vim
+vim TEC制冷片驱动选型.md 
+ vim tim.c
+vim
+vim
+vim -ve
+ vim tim.c
+vim
+vim -ve
+cd /
+cd Home\
+vim _vimrc 
+vim
+vim vimrc
+exit
+vim TEC制冷片驱动选型.md 
+ vim tim.c
+vim
+vim -ve
+vim 
+vim
+cd Desktop\`
+cd Desktop\
+cd vim
+vim 123.md 
+vim TEC制冷片驱动选型.md 
+python
+vim
+vim vimrc
+exit
+vim TEC制冷片驱动选型.md 
+ vim tim.c
+vim
+vim -ve
+vim 
+vim
+cd Desktop\`
+cd Desktop\
+vim 123.md 
+vim TEC制冷片驱动选型.md 
+python
+cd /
+cd cmder
+cd vendor\
+cd git
+cd git-for-windows\
+cd usr\
+cd share\
+cd vim
+cd vimfiles\
+cd bu
+cd bundle\
+ls all
+cd doc
+la -a
+ls -a
+ls -l
+ls -h
+ls -r
+ls -R
+cd ..
+cd markdown-preview.vim\
+tree
+cd autoload\server\
+ls
+python server.py 
+python
+ls
+cd Desktop\
+cd vim
+vim TEC制冷片驱动选型.md 
+ls -a
+tree -h
+cd git
+cd git-for-windows\
+cd usr\
+cd share\
+cd vim
+cd vimfiles\
+cd bu
+cd bundle\
+ls all
+cd doc
+la -a
+ls -a
+ls -l
+ls -h
+ls -r
+ls -R
+cd markdown-preview.vim\
+tree
+cd autoload\server\
+ls
+python server.py 
+python
+cd Desktop\
+cd vim
+vim TEC制冷片驱动选型.md 
+ls -a
+tree -h
+vim server.py 
+cd ..
+ls
+vim README.md 
+vim
+exit
+exit
+vim
+cd Desktop\
+cd vim
+ls
+vim tim.c
+vim -version
+vim --version
+python server.py 
+python
+cd Desktop\
+cd vim
+vim TEC制冷片驱动选型.md 
+ls -a
+tree -h
+vim server.py 
+cd ..
+ls
+vim README.md 
+vim
+exit
+exit
+cd Desktop\
+cd vim
+vim tim.c
+vim -version
+vim --version
+gvim
+vim
+ls
+df -h
+gw
+gd
+7z
+cls
+cd /
+gt
+gf
+kjj
+gf
+kjj
+exit
+gt
+gf
+kjj
+gf
+gw
+gd
+cd vim
+ls
+vi
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+exit
+vimrc
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+gd
+cd vim
+vim tim.c
+vi hello.py 
+vim
+vi
+vimrc
+exit
+vim
+vi
+vimrc
+exit
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+vim tim.c
+vi hello.py 
+vim
+vi
+vimrc
+exit
+vim
+exit
+vi
+gd
+cd vim
+vimrc
+vi tim.c
+vimrc
+exit
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+vi hello.py 
+vim
+vi
+exit
+vi
+vi tim.c
+gd
+cd vim
+vim tim.c
+
+ls
+vim
+vimrc
+exit
+vimrc
+exit
+vim
+vi
+vimrc
+exit
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+vim tim.c
+vi hello.py 
+vim
+vi
+vimrc
+exit
+vim
+exit
+vi
+gd
+cd vim
+vimrc
+vi tim.c
+vimrc
+exit
+vi TEC制冷片驱动选型.md 
+vim hello.py 
+kjj
+vim
+vi
+exit
+ls
+exit
+gd
+cd vim
+vi tim.c
+vim
+vim tim.c
+vimrc
+vi
+vi hello.py 
+git clone https://github.com/Meekdai/mycmder.git
+git clone https://github.com/Meekdai/cmder.git
+cd /
+cd cmder\
+cd /
+exit
+cd /
+git clone https://github.com/Meekdai/cmder.git
+cd /
+git clone https://github.com/Meekdai/cmder.git
+gd
+exit
