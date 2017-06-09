@@ -979,3 +979,61 @@ cd /
 git clone https://github.com/Meekdai/cmder.git
 gd
 exit
+gd
+git add .
+git ci -m'new push'
+git commit -m'new push'
+git config --global user.email "meekdai@163.com"
+git config --global user.name "Meekdai"
+git commit -m'new'
+git push origin master
+google
+eixr
+eixt
+exit
+cd /
+cd cmder\
+cd /
+exit
+cd /
+git clone https://github.com/Meekdai/cmder.git
+cd /
+git clone https://github.com/Meekdai/cmder.git
+kjj
+gd
+cd vim
+ls
+gvim
+gvim TEC制冷片驱动选型.md 
+vi
+vi TEC制冷片驱动选型.md 
+vim
+vimrc
+exit
+pip install vim
+pip install python-vim
+exit
+vimrc
+vim
+gd
+cd vim
+vi TEC制冷片驱动选型.md 
+exit
+pip install vim
+vimrc
+gd
+cd vim
+git
+ls
+pip uninstall python-vim
+vi TEC制冷片驱动选型.md 
+pip install python-eval
+pip install python-vim
+vim
+vi
+exit
+cd /
+cd cmder\
+git add .
+exit
+python

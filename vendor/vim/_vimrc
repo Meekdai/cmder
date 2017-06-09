@@ -10,11 +10,11 @@ set rtp+=C:/cmder/vendor/vim/vimfiles/bundle/Vundle.vim
 call vundle#begin('C:/cmder/vendor/vim/vimfiles/bundle/')
 
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'iamcco/markdown-preview.vim'
 Plugin 'klen/python-mode'
 Plugin 'scrooloose/nerdtree'
 Plugin 'fholgado/minibufexpl.vim'
 Plugin 'kien/ctrlp.vim'
+Plugin 'iamcco/markdown-preview.vim'
 
 call vundle#end()
 filetype plugin indent on
@@ -28,8 +28,9 @@ let &termencoding=&encoding
 set fileencodings=utf-8,gbk
 
 "MarkdownPreview设置
-let g:mkdp_path_to_chrome="chrome"
-let g:mkdp_auto_close=0
+let g:mkdp_path_to_chrome = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
+let g:mkdp_auto_close = 1
+let g:mkdp_auto_start = 1
 nmap <F7> <Plugin>MarkdownPreview
 nmap <F8> <Plugin>StopMarkdownPreview
 
