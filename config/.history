@@ -1061,3 +1061,31 @@ kjj
 vimrc
 vim
 vi
+alias
+com
+kjj
+alias
+com
+vimrc
+vi
+vim
+vim  123.md
+gd
+kjj
+cd /
+cd cmder\
+git commit -m'delete_Vundle_git'
+git push origin master
+git pull
+git add -A
+git commit -m'add'
+tree
+cd vendor\
+cd vim\
+cd vimfiles\
+cd bundle\
+cd nerdtree\
+ls
+git add .
+git st
+exit
