@@ -2,15 +2,15 @@
 ---
 
 主界面
-![界面](https://github.com/Meekdai/cmder/raw/master/image/1.png)
+![界面](https://github.com/Meekdai/cmder/raw/master/image/1.jpg)
 
 Markdown高亮，以及背后实时预览功能，随着光标的移动，自动下拉页面。
 
-![Markdown](https://github.com/Meekdai/cmder/raw/master/image/2.png)
+![Markdown](https://github.com/Meekdai/cmder/raw/master/image/2.jpg)
 
 具备常用代码高亮、折叠、编译的能力。
 
-![code](https://github.com/Meekdai/cmder/raw/master/image/3.png)
+![code](https://github.com/Meekdai/cmder/raw/master/image/3.jpg)
 
 ### 说明
 
