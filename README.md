@@ -1,7 +1,17 @@
 ### 展示
 ---
 
-![界面]()
+主界面
+
+![界面](https://github.com/Meekdai/cmder/blob/master/image/1.png)
+
+Markdown高亮，以及背后实时预览功能，随着光标的移动，自动下拉页面。
+
+![Markdown](https://github.com/Meekdai/cmder/blob/master/image/2.png)
+
+具备常用代码高亮、折叠、编译的能力。
+
+![code](https://github.com/Meekdai/cmder/blob/master/image/3.png)
 
 ### 说明
 
