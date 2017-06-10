@@ -21,6 +21,16 @@ $ git clone https://github.com/Meekdai/cmder.git
 
 > 注意解压目录不要包含有中文路径，否则会出现意想不到的错误。
 
+### 配置Vundle
+
+在VIM里面，我使用Vundle来管理所有的插件，所以需要先进入到`../cmder/vendor/vim/vimfiles/bundle/`文件内把最新的`Vundle`下载下来，当然是在当前目录运行下面这句：
+
+```
+git clone https://github.com/VundleVim/Vundle.vim.git
+```
+
+成功后，在cmder内运行`vim`指令，进入到`vim`的普通模式下，输入`:PluginInstall`来下载所有的插件。
+
 ### 右键设置
 
 可以通过右键，在指定目录打开Cmder。
@@ -36,3 +46,13 @@ Cmder.exe /REGISTER ALL 1 Cmder.exe /REGISTER ALL
 ### 快捷键设置
 
 
+
+### FAQ
+
+Q:输入`kjj`提示错误，即`../cmder/config/user-aliases.cmd`内设置的快捷键无效，而`ls`等指令是有用的。
+
+A:这是由于Win10 1703 (Build 15063.11)更新导致，解决办法见[issues #1325](https://github.com/cmderdev/cmder/issues/1325)
+
+Q:右键配置好后，依旧无法进入指定的目录。
+
+A:请配置`cmder.exe`默认为管理员打开。

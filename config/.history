@@ -1089,3 +1089,13 @@ ls
 git add .
 git st
 exit
+exit
+vim
+grep .md
+cd /
+cd cmder\
+ls
+git add .
+git commit -m 'add'
+git st
+vim README.md 
