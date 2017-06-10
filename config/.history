@@ -1099,3 +1099,28 @@ git add .
 git commit -m 'add'
 git st
 vim README.md 
+exit
+grep .md
+cd /
+cd cmder\
+ls
+git add .
+git commit -m 'add'
+git st
+git clone https://github.com/VundleVim/Vundle.vim.git
+vim
+cd ..
+vi README.md 
+git add -A
+git commit -m'add-gitignore'
+vim README.md 
+git rm -r -n --cached 'vendor/vim/vimfiles/bundle'
+git rm -r -n --cached '../vendor/vim/vimfiles/bundle'
+git rm --cached "../vendor/vim/vimfiles/bundle"
+git rm --cached "vendor/vim/vimfiles/bundle"
+git rm -r --cached "vendor/vim/vimfiles/bundle"
+git commit -m'delete_bundle'
+git push origin master
+vimrc
+vi
+exit

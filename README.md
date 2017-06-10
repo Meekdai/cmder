@@ -23,7 +23,7 @@ $ git clone https://github.com/Meekdai/cmder.git
 
 ### 配置Vundle
 
-在VIM里面，我使用Vundle来管理所有的插件，所以需要先进入到`../cmder/vendor/vim/vimfiles/bundle/`文件内把最新的`Vundle`下载下来，当然是在当前目录运行下面这句：
+在VIM里面，我使用Vundle来管理所有的插件，所以需要先进入到`../cmder/vendor/vim/vimfiles/bundle/`文件夹内把最新的`Vundle`下载下来，当然是在当前目录运行下面这句：
 
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git
