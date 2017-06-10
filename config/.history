@@ -1124,3 +1124,46 @@ git push origin master
 vimrc
 vi
 exit
+git st
+git clone https://github.com/VundleVim/Vundle.vim.git
+vim
+cd ..
+vi README.md 
+git add -A
+git commit -m'add-gitignore'
+vim README.md 
+git rm -r -n --cached 'vendor/vim/vimfiles/bundle'
+git rm -r -n --cached '../vendor/vim/vimfiles/bundle'
+git rm --cached "../vendor/vim/vimfiles/bundle"
+git rm --cached "vendor/vim/vimfiles/bundle"
+git rm -r --cached "vendor/vim/vimfiles/bundle"
+git commit -m'delete_bundle'
+git push origin master
+vimrc
+vi
+cd desk
+cd HI3519\
+tree
+cd..
+cd /
+cd cmder\
+mkdir image
+cd image\
+python
+cls
+df -h
+cd /d g:
+cd git
+cd myPython\
+cd bmjm\
+vim Pyjm.py 
+kjj
+cd /d c
+cd /d c:
+gw
+cd desk\
+cd simple\
+cd user\
+ls
+vi main.c 
+exit

@@ -1,83 +1,84 @@
-### 展示
+
+### Why use it.
 ---
 
-主界面
+It looks cool.
+
 ![界面](https://github.com/Meekdai/cmder/raw/master/image/1.jpg)
 
-Markdown高亮，以及背后实时预览功能，随着光标的移动，自动下拉页面。
+It is powerful on Markdown editors.
 
-![Markdown](https://github.com/Meekdai/cmder/raw/master/image/2.jpg)
+![Markdown](https://github.com/Meekdai/cmder/raw/master/image/2.gif)
 
-具备常用代码高亮、折叠、编译的能力。
+It has the ability to highlight, fold, and compile code.(Python/C/C++/...)
 
 ![code](https://github.com/Meekdai/cmder/raw/master/image/3.jpg)
 
-### 说明
+### Description
 
-使用 markdown-preview.vim 插件可以实时通过浏览器预览 markdown 文件
+Cmder integrates powerful command-line tools.It is same as Linux.
 
-> 使用该软件需要 Python27 64-bit
+> Installing Python to use Cmder is required
 
-### 安装
+### Installation
 ---
-1、如果你已经有Git，可以直接通过下面的一条指令安装到你的电脑上。
+1、If you already have `Git`, you can install it directly on your computer via one of the following instructions.
 
 ```
 $ git clone https://github.com/Meekdai/cmder.git
 ```
 
-2、如果电脑上没有安装Git，也许你正需要这个cmder来实现这些功能，那么可以直接通过`Download ZIP`按钮来下载，解压到合适的位置。
+2、If you do not have `Git` installed, maybe you need this Cmder to implement these features, then you can use the `Download ZIP` button to download and extract to the right place.
 
-### 环境变量
+### Environment variable
 ---
-1、必须在环境变量的`Path`中添加`cmder.exe`所在的目录，以及`vim.exe`所在的目录。比如我需要添加的两个路径为`C:\cmder` 和 `C:\cmder\vendor\vim`。 
+You must add both of the `cmder.exe` directory and `vim.exe` directory to the` Path` of the environment variable. For example, I need to add two paths `C:\cmder` and` C:\cmder\vendor\vim`. 
 
-> 注意解压目录不要包含有中文路径，否则会出现意想不到的错误。
 
-### 配置Vundle
+### Configuration Vundle
 ---
-在VIM里面，我使用Vundle来管理所有的插件，所以需要先进入到`../cmder/vendor/vim/vimfiles/bundle/`文件夹内把最新的`Vundle`下载下来，当然是在当前目录运行下面这句：
+In VIM, I use Vundle to manage all the plugins, so you need to go to the `../cmder/vendor/vim/vimfiles/bundle/` folder to download the latest `Vundle`, of course, in the current directory Run the following code:
 
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git
 ```
 
-成功后，在cmder内运行`vim`指令，进入到`vim`的普通模式下，输入`:PluginInstall`来下载所有的插件。
+After successful, run the `vim` directive in cmder and go to` vim` 's normal mode, please type `: PluginInstall` to download all the plugins.
 
-### 右键设置
+### Right Click Configuration
 ---
-可以通过右键，在指定目录打开Cmder。
+You can open Cmder in the specified directory by right-clicking.
 
-首先打开具有管理员权限的终端，快捷键`Ctrl + t`勾选`Run as current user`和`Run as administrator`这两项，然后点`start`开启，然后在命令行输入 :
+First open the administrator with the authority of the Cmder, shortcut keys `Ctrl + t` check 'Run as current user` and` Run as administrator` these two, click `start` button, and then enter the command line:
 
 ```
 Cmder.exe /REGISTER ALL 1 Cmder.exe /REGISTER ALL 
 ```
-现在在文件夹上右键点击`Cmder here` 就能在`cmder`里进入该目录。
+Now right click on `Cmder here` in the folder to access the directory in` cmder`.
 
 
-### 快捷键设置
+### Alias Configuration
 ---
-所有的快捷键都放在`../cmder/config/user-aliases.cmd`里面，你可以通过`vim`来编辑它，直接在命令行内输入`kjj`就可以打开编辑它，如果出错了，请参考下文的FAQ。
+All the alias are placed in the `../cmder/config/user-aliases.cmd`, you can edit it through`vim`, in the command line input `kjj` can open edit it, if wrong Please refer to the following FAQ.
 
-例如我设置的`gd`为进入到桌面，`vimrc`为打开VIM配置文件，`st`为用sublime Text打开某文件。你可以通过自己的习惯设置一些快捷键。
+For example, I set the `gd` to enter the desktop,` vimrc` to open the VIM configuration file, `st` to open a file with sublime Text. You can set some alias through your own habits.
 
 ### FAQ
 ---
 
-Q:输入`kjj`提示错误，即`../cmder/config/user-aliases.cmd`内设置的快捷键无效，而`ls`等指令是有用的。
+Q:In `../Cmder/config/user-aliases.cmd`,the set of alias is invalid and the `ls` directive is useful.
 
-A:这是由于Win10 1703 (Build 15063.11)更新导致，解决办法见[issues #1325](https://github.com/cmderdev/cmder/issues/1325)
+A:Aliases do not work under Win10 1703 (Build 15063.11)[issues #1325](https://github.com/cmderdev/cmder/issues/1325)
 
-Q:右键配置好后，依旧无法进入指定的目录。
+Q:Right-click configured, still can not enter the specified directory.
 
-A:请配置`cmder.exe`默认为管理员打开。
+A:Please configure `cmder.exe ' open as administrator by default.
 
 ### License
 ---
 
 MIT License
 
-
-
-
+### 中文README
+---
+中文README请移步：[Cmder可能是Windows下最优雅最强大命令行](http://blog.meekdai.com/cmder.html)
