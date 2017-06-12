@@ -21,5 +21,7 @@ kjj= vim C:\cmder\config\user-aliases.cmd
 lsup= c:\cmder\meekdai\getletter_drive.cmd
 gw=cd /d c:\meekdai
 gd=cd /d C:\Users\Meekdai\Desktop
+gc=cd /d D:\CODE
 7z=C:\cmder\meekdai\7z.exe $*
 vimrc= vim C:\cmder\vendor\vim\_vimrc 
+stm4=C:\cmder\meekdai\stm32f407zgt6.bat $*

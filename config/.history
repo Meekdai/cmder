@@ -1167,3 +1167,180 @@ cd user\
 ls
 vi main.c 
 exit
+git commit -m'readme0'
+cd /
+cd cmder\
+ls 
+cd config\
+ls
+rm .history 
+git pull
+cd ..
+vim .gitignore 
+git add .
+git commit -m 'delete_history'
+git push origin master
+exit
+cd /
+cd cmder\
+vi README.md 
+exit
+screenfetch
+make
+exit
+screenfetch
+make
+exit
+exit
+screenfetch
+make
+make -v
+Jlink
+exit
+make
+make -v
+Jlink
+jlink
+lsusb
+pip install serial
+pip install pyserial
+com
+kjj
+gc
+exit
+git push origin master
+exit
+cd /
+cd cmder\
+vi README.md 
+exit
+screenfetch
+make
+exit
+screenfetch
+make
+exit
+exit
+screenfetch
+make
+make -v
+Jlink
+exit
+make -v
+Jlink
+jlink
+lsusb
+pip install serial
+pip install pyserial
+com
+kjj
+gc
+cd stm32f4_demo\
+vi Makefile
+cd user\
+ls
+vi main.c 
+cd ..
+vi Makefile 
+vim user\main.c 
+vi user\usart.c
+vi user\usart.h
+vi user\main.
+vi user\main.c
+vim user\main.c
+make
+exit
+gc
+cd stm32f4_demo
+vi user\main.
+vi user\main.c
+make
+arm-none-eabi-gcc -print-multi-lib
+screenfetch
+make
+exit
+exit
+screenfetch
+make
+make -v
+Jlink
+exit
+make -v
+Jlink
+jlink
+lsusb
+pip install serial
+pip install pyserial
+com
+kjj
+COM
+gc
+cd stm32f4_demo
+tree
+lstree
+cd user\
+cd ..
+vi Makefile 
+make all
+gd
+cd blink\
+ls
+make clean
+vim Makefile 
+make
+exit
+com
+kjj
+gc
+cd stm32f4_demo\
+cd user\
+vi main.c 
+cd ..
+vim user\main.c 
+vi user\usart.c
+vi user\usart.h
+vi user\main.
+vi user\main.c
+vim user\main.c
+make
+vi user\main.
+arm-none-eabi-gcc -print-multi-lib
+gc
+cd stm32f4_demo
+vi Makefile 
+make
+vi Makefile
+ls
+vi user\main.c
+make clean
+make all
+jlink
+stm4 led.bin
+exit
+vim Makefile 
+make
+cd /
+cd cmder\
+cd meekdai\
+ls
+vi stm32f407zgt6.bat
+kjj
+exit
+kjj
+gc
+cd stm32f4_demo
+ls
+stm4 led.bin
+JlinkExe
+jlink -autoconnect 1 -device stm32f407zgt6 -if swd -speed 4000 -commandfile download.jlink
+jlink
+exit
+kjj
+cd /
+cd cmder\
+cd meekdai\
+rm stm32f407zgt6.bat 
+ls
+exit
+jlink
+exit
