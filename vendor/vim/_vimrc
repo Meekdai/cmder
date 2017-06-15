@@ -43,13 +43,51 @@ nnoremap <space> za
 set wrap
 
 "NERDTree
-let NERDTreeWinPos='right' 
-let NERDTreeWinSize=30 
+let NERDTreeWinPos='right'
+let NERDTreeWinSize=30
 map <F2> :NERDTreeToggle<CR>
-"autocmd VimEnter * NERDTree 
+"autocmd VimEnter * NERDTree
 "autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") &&b:NERDTreeType == "primary") | q | endif
 
 "Buffer
-map <s-tab> :bp<cr> 
-map <tab> :bn<cr> 
+map <s-tab> :bp<cr>
+map <tab> :bn<cr>
 map ,bd :bd<cr>
+
+
+
+let g:pymode_rope = 0
+
+let g:pymode_python = 'python'
+
+" Documentation
+let g:pymode_doc = 1
+let g:pymode_doc_key = 'K'
+
+"Linting
+let g:pymode_lint = 1
+let g:pymode_lint_checker = "pyflakes,pep8"
+" Auto check on save
+let g:pymode_lint_write = 1
+
+" Support virtualenv
+let g:pymode_virtualenv = 1
+
+" Enable breakpoints plugin
+let g:pymode_breakpoint = 1
+let g:pymode_breakpoint_bind = '<leader>b'
+
+" syntax highlighting
+let g:pymode_syntax = 1
+let g:pymode_syntax_all = 1
+let g:pymode_syntax_indent_errors = g:pymode_syntax_all
+let g:pymode_syntax_space_errors = g:pymode_syntax_all
+
+" Don't autofold code
+let g:pymode_folding = 0
+
+" Run Python Code
+let g:pymode_run = 1
+let g:pymode_rope_goto_definition_bind = "<C-]>"
+let g:pymode_run_bind = "<C-b>"
+noremap <F9> :PymodeLintAuto<CR>

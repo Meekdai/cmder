@@ -1344,3 +1344,469 @@ ls
 exit
 jlink
 exit
+kjj
+cd /
+cd cmder\
+cd meekdai\
+rm stm32f407zgt6.bat 
+exit
+gc 
+cd stm32f4_demo
+ls
+make clean
+make all
+vi user\main.c
+make
+jlink
+JLINK
+GW
+CD /
+CD cmder\
+git add .
+git commit -m"add stm32 gcc & make"
+git push origin master
+exit
+rm stm32f407zgt6.bat 
+exit
+gc 
+cd stm32f4_demo
+ls
+make
+JLINK
+GW
+CD /
+CD cmder\
+git add .
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+sh stm32f4.bat 
+sh stm32f4.bat led.bin
+vi user\main.c
+make clean
+make all
+jlink
+exit
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+exit
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+sh stm32f4.bat 
+sh stm32f4.bat led.bin
+vi user\main.c
+make clean
+make all
+jlink
+exit
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+exit
+gc
+cd stm32f4_demo
+las
+ls
+vi stm32f4.bat 
+vi JLinkCommandFile.jlink 
+vi script.jlink
+vi script.jlink 
+jlink.exe script.jlink 
+git commit -m"add stm32 gcc & make"
+git push origin master
+exit
+rm stm32f407zgt6.bat 
+exit
+gc 
+ls
+JLINK
+GW
+CD /
+CD cmder\
+git add .
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+sh stm32f4.bat 
+sh stm32f4.bat led.bin
+vi user\main.c
+exit
+git commit -m"add stm32 gcc & make"
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+gc
+cd stm32f4_demo
+jlink.exe -device STM32F407ZG -if SWD -speed 1000 -jtagconf -1,-1 -autoconnect 1 -CommanderScript JLinkCommandFile.jlink
+jlink.exe -device STM32F407ZG -if SWD -speed 1000 -jtagconf -1,-1 -autoconnect 1 -CommanderScript d:/code/stm32f4_demo/JLinkCommandFile.jlink
+
+jlinkstm32
+make all
+LinkGDBServer
+LinkGDBServer.exe
+JLinkGDBServer.exe
+gdb
+vi Makefile 
+make
+vi gdbinit_template.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make clean
+make 
+vi script.jlink 
+jlink script.jlink 
+exit
+exit
+git push origin master
+vi jlink.jlink 
+vi stm32f4.bat 
+jlink.exe -device STM32F407ZG -if SWD -speed 1000 -jtagconf -1,-1 -autoconnect 1 -CommanderScript JLinkCommandFile.jlink
+jlink.exe -device STM32F407ZG -if SWD -speed 1000 -jtagconf -1,-1 -autoconnect 1 -CommanderScript d:/code/stm32f4_demo/JLinkCommandFile.jlink
+jlinkstm32
+make all
+LinkGDBServer
+LinkGDBServer.exe
+JLinkGDBServer.exe
+gdb
+vi Makefile 
+make
+vi gdbinit_template.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make clean
+make 
+exit
+gc
+cd stm32f4_demo
+vi script.jlink 
+jlink
+jlink script.jlink 
+exit
+jlinkdbgserver
+jlinkgdbserver
+gc
+cd stm32f1
+cd stm32f1_demo
+vi Makefile 
+JLinkGDBServer.exe
+gdb
+vi gdbinit_template.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make 
+exit
+vi script.jlink 
+exit
+jlinkdbgserver
+jlinkgdbserver
+gc
+cd stm32f4_demo
+showemulist
+jlink
+jlink script.jlink 
+cd .
+cd ..
+cd stm32f1_demo
+LS
+vi Makefile 
+vi sys\core_cm3.
+vi sys\core_cm3.c
+make clean
+make
+vi user\main.
+vi user\main.c
+gdb
+vi gdbinit_template.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make 
+exit
+exit
+jlinkdbgserver
+jlinkgdbserver
+gc
+cd stm32f4_demo
+showemulist
+cd .
+cd ..
+LS
+vi sys\core_cm3.
+vi sys\core_cm3.c
+vi user\main.
+vi user\main.c
+gc 
+cd stm32f1_demo
+ls
+make clean
+vi Makefile 
+make
+vi script.jlink 
+jlinkstam32
+jlink
+jlinkstm32
+jlink script.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make 
+exit
+vi script.jlink 
+exit
+jlinkdbgserver
+jlinkgdbserver
+gc
+cd stm32f4_demo
+showemulist
+jlink
+jlink script.jlink 
+cd .
+cd ..
+LS
+vi Makefile 
+vi sys\core_cm3.
+vi sys\core_cm3.c
+make clean
+make
+vi user\main.
+vi user\main.c
+gdb
+vi gdbinit_template.jlink 
+vi .gdbinit 
+JLinkGDBServer
+make 
+exit
+jlinkdbgserver
+jlinkgdbserver
+showemulist
+cd .
+LS
+vi sys\core_cm3.
+vi sys\core_cm3.c
+vi user\main.
+gc 
+vi Makefile 
+jlinkstam32
+gc
+ cd stm32f1_demo
+jlinkstm32 -h
+cd stm32f4_demo
+jlinkstm32
+exec device = STM32F103VE
+VI user\main.C
+cd ..
+cd stm32f1_demo
+ls
+JLINK
+VI script.jlink 
+vi user\main.c
+make clean
+make
+jlink
+jlink script.jlink 
+vi script.jlink 
+exit
+showemulist
+cd .
+cd ..
+LS
+vi sys\core_cm3.
+vi sys\core_cm3.c
+vi user\main.
+gc 
+ls
+vi script.jlink 
+jlinkstam32
+jlinkstm32
+gc
+cd stm32f1_demo
+VI Makefile 
+make all
+jlink
+vi user\main.c
+vi Makefile 
+make clean
+make
+jlink script.jlink 
+eixt
+exit
+exit
+jlinkdbgserver
+jlinkgdbserver
+showemulist
+cd .
+LS
+vi sys\core_cm3.
+vi sys\core_cm3.c
+vi user\main.
+gc 
+jlinkstam32
+ cd stm32f1_demo
+jlinkstm32 -h
+cd stm32f4_demo
+jlinkstm32
+exec device = STM32F103VE
+VI user\main.C
+cd ..
+ls
+JLINK
+VI script.jlink 
+vi script.jlink 
+gc
+cd stm32f1_demo
+jlink
+vi Makefile 
+vi main.c
+vi user\main.c
+make clean
+make
+jlink script.jlink 
+JLinkGDBServer
+exit
+vi user\main.c
+JLinkGDBServer
+exit
+cd /
+cd cmder\
+vi README.md 
+gc
+cd stm32f1_demo
+ls
+make clean
+make
+jlink
+jlink script.jlink 
+cd stm32f4_demo
+jlinkstm32
+exec device = STM32F103VE
+VI user\main.C
+cd ..
+ls
+JLINK
+VI script.jlink 
+gc
+cd stm32f1_demo
+jlink
+vi main.c
+vi user\main.c
+make clean
+jlink script.jlink 
+JLinkGDBServer
+exit
+vi user\main.c
+JLinkGDBServer
+cd /
+cd cmder\
+vi README.md 
+cd stm32f1_demo
+make clean
+gc
+cd stm32f0_demo
+ls
+cp d:\CODE\stm32f1_demo\Makefile d:\CODE\stm32f0_demo\
+vi user\main.c 
+
+vi sys\stm32f0xx.h 
+vi Makefile 
+make
+vi script.jlink 
+jlink script.jlink 
+jlink
+exit
+exit
+com
+cd cmder\
+vi README.md 
+ls
+cp d:\CODE\stm32f1_demo\Makefile d:\CODE\stm32f0_demo\
+vi user\main.c 
+vi sys\stm32f0xx.h 
+vi Makefile 
+exit
+gc
+cd stm32f0_demo
+jlink
+vi script.jlink 
+vi sys\flash.ld 
+make clean
+cd ..
+cd stm32f1
+cd stm32f1_demo
+vi user\main.c
+make
+jlink script.jlink 
+JLINK
+gc
+vi stm32
+vi stm32.py 
+vi Makefile 
+make
+make
+lua
+exit
+cd stm32f1
+cd stm32f1_demo
+vi user\main.c
+make
+jlink script.jlink 
+JLINK
+vi stm32
+vi stm32.py 
+vi Makefile 
+make
+make
+lua
+gc
+git clone https://github.com/Meekdai/myPython.git
+cd myPython\
+vi README.md 
+git add .
+git commit -m"add readme"
+git push origin master
+ls
+cd Pyrename\
+vi Pyrename.py 
+cd ..
+vi meekgui\demo2.py 
+vimrc
+exit
+make
+lua
+git clone https://github.com/Meekdai/myPython.git
+vi README.md 
+git add .
+git commit -m"add readme"
+git push origin master
+cd Pyrename\
+vi Pyrename.py 
+cd ..
+gc
+cd myPython\
+ls
+vimrc
+vi meekgui\demo2.py 
+vim -N
+vim meekgui\demo2.py 
+exit
+git clone https://github.com/Meekdai/myPython.git
+vi README.md 
+git add .
+git commit -m"add readme"
+git push origin master
+cd Pyrename\
+vi Pyrename.py 
+cd ..
+ls
+vimrc
+vi meekgui\demo2.py 
+vim -N
+gc
+cd myPython\
+pip install htmlPy
+pip install -U PySide
+vim meekgui\demo2.py 
+exit
