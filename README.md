@@ -81,4 +81,4 @@ MIT License
 
 ### 中文README
 ---
-中文README请移步：[Cmder可能是Windows下最优雅最强大命令行](http://blog.meekdai.com/cmder.html)
+中文README请移步：[Cmder可能是Windows下最优雅最强大命令行](http://meekdai.com/cmder.html)
